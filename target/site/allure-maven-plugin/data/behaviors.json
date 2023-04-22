@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "As a OrangeHRMlive user I should be able to login and logout with valid credentials",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "stories" : [ {
+      "uid" : "4fea00d2c41977e",
+      "title" : "Login into the application with valid credentials",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 1
+      },
+      "testCases" : [ {
+        "uid" : "486f6ef53a271f17",
+        "name" : "Login into the application with valid credentials",
+        "title" : "Login into the application with valid credentials",
+        "time" : {
+          "start" : 1682104683831,
+          "stop" : 1682104706303,
+          "duration" : 22472
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      } ]
+    } ]
+  } ]
+}

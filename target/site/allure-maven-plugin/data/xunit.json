@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1682104683831,
+    "stop" : 1682104706303,
+    "duration" : 22472
+  },
+  "testSuites" : [ {
+    "uid" : "30c728cebb181cf2",
+    "name" : "As a OrangeHRMlive user I should be able to login and logout with valid credentials",
+    "title" : "As a orange HR mlive user I should be able to login and logout with valid credentials",
+    "time" : {
+      "start" : 1682104683831,
+      "stop" : 1682104706303,
+      "duration" : 22472
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "486f6ef53a271f17",
+      "name" : "Login into the application with valid credentials",
+      "title" : "Login into the application with valid credentials",
+      "time" : {
+        "start" : 1682104683831,
+        "stop" : 1682104706303,
+        "duration" : 22472
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    } ]
+  } ]
+}

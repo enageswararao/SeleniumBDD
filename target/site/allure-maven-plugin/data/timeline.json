@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "DESKTOP-6D3RGMH",
+    "threads" : [ {
+      "title" : "22956@DESKTOP-6D3RGMH.main(1)",
+      "testCases" : [ {
+        "uid" : "486f6ef53a271f17",
+        "name" : "Login into the application with valid credentials",
+        "title" : "Login into the application with valid credentials",
+        "time" : {
+          "start" : 1682104683831,
+          "stop" : 1682104706303,
+          "duration" : 22472
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      } ]
+    } ]
+  } ]
+}
